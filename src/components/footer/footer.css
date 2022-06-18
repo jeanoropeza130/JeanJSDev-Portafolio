@@ -1,0 +1,116 @@
+.f{
+   text-align: center;
+   color: white;
+   background-color: #030f29;
+   padding: 100px;
+   height: 3vh;
+   flex-wrap: wrap;
+   
+   
+}
+
+.f1{
+   box-shadow: 0px 0px 10px white;
+   padding: 10px;
+}
+
+.wa-ic{
+color: rgb(26, 224, 108);
+font-size: 3vw;
+margin-right: 20px;
+cursor: pointer;
+}
+
+.git-ic{
+color: white;
+font-size: 3vw;
+margin-right: 20px;
+cursor: pointer;
+}
+
+.f-ic{
+color: #2398db;
+font-size: 3vw;
+margin-right: 20px;
+cursor: pointer;
+
+}
+
+.ins-ic{
+   color:#E4405F;
+   font-size: 3vw;
+   margin-right: 20px;
+   cursor: pointer;
+}
+
+.you-ic{
+   color:#ec1c1c;
+   font-size: 3vw;
+   margin-right: 20px;
+   cursor: pointer;
+}
+
+.fac-ic{
+   color:#3B5999;
+   font-size: 3vw;
+   margin-right: 20px;
+   cursor: pointer;
+}
+
+.f-text{
+   padding: 10px;
+}
+
+@media screen and (max-width: 480px) {
+   .f{
+      padding: 30px;
+      height: 25vh;
+      
+   }
+
+   .f-ic {
+      font-size: 10vw;
+      margin-right: 10px;
+      
+   }
+
+   .wa-ic{
+      color: rgb(26, 224, 108);
+      font-size: 10vw;
+      margin-right: 10px;
+      }
+
+   .git-ic{
+      color: white;
+      font-size: 10vw;
+      margin-right: 10px;
+         }
+
+   .ins-ic{
+      color:#E4405F;
+      font-size: 10vw;
+      margin-right: 10px;
+   }
+
+   .you-ic{
+      color:#ec1c1c;
+      font-size: 10vw;
+      margin-right: 10px;
+   }
+
+   .fac-ic{
+      color:#3B5999;
+      font-size: 10vw;
+      margin-right: 10px;
+   }
+
+   .f-text{
+      padding: 5px;
+      font-size: 10px;
+   }
+
+
+   .f-desc{
+      display: none;
+   }
+}
