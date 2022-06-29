@@ -1,5 +1,5 @@
 import "./intro.css"
-import Me from "../../img/me.jpg"
+
 
 const Intro = () => {
   return (
@@ -20,7 +20,7 @@ const Intro = () => {
                 JeanJSDev Desarrollos Frontend modernos y con estilo.
                 </p>
                 
-                <a className="i-cv" href="../../assets/VC-jean.pdf"download>Descarga Mi CV</a> 
+                <a className="i-cv" href="https://github.com/jeanoropeza130/JeanJSDev-Portafolio/raw/master/src/assets/CV-Jean.pdf"download>Descarga Mi CV</a> 
             </div>
             <svg 
              width="24px"
@@ -37,7 +37,7 @@ const Intro = () => {
         
         <div className="i-right">
             <div className="i-bg"></div>
-            <img src={Me} alt="" className="i-img" />
+            <img src="https://i.ibb.co/1QthTwT/me.jpg" alt="" className="i-img" />
         </div>
         
     </div>

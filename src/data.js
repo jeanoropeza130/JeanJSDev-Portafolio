@@ -4,7 +4,7 @@ export const products = [
         id: 1,
         img:"https://i.ibb.co/hCPL0HH/calc.jpg",
         link:"https://calc-app-jeanl.web.app/",
-        des:'Calculadora',
+        des:'Calculator',
        
         
     },
@@ -20,8 +20,18 @@ export const products = [
         link:"https://react-app-social.web.app/",
         des:'Social-Example',
     },
+
+    {
+        id: 4,
+        img:"https://i.ibb.co/fr5qQjj/ecomerce.jpg",
+        link:"https://shop-example-ui.web.app/",
+        des:'Shop-Example',
+    },
     
 ]
+
+
+
 
 
 
