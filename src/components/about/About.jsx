@@ -28,7 +28,7 @@ const About = () => {
             <b>"Cada dia hay algo nuevo que aprender".</b>
           </div>
           
-          <a className="a-cv" href="../../assets/VC-jean.pdf"download>Descarga Mi CV</a> 
+          <a className="a-cv" href="https://github.com/jeanoropeza130/JeanJSDev-Portafolio/raw/master/src/assets/CV-Jean.pdf"download>Descarga Mi CV</a> 
           
             
             

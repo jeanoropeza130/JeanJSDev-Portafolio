@@ -73,7 +73,7 @@ const Contact = () => {
                 <button>Enviar</button>
                 {done && " Tu Email se ha enviado Gracias..." }
               </form>
-              <a className="c-cv" href="../../assets/VC-jean.pdf"download>Descarga Mi CV</a> 
+              <a className="c-cv" href="https://github.com/jeanoropeza130/JeanJSDev-Portafolio/raw/master/src/assets/CV-Jean.pdf"download>Descarga Mi CV</a> 
             </div>
           </div>   
     </div>
