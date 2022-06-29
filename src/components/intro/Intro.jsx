@@ -20,7 +20,7 @@ const Intro = () => {
                 JeanJSDev Desarrollos Frontend modernos y con estilo.
                 </p>
                 
-                <a className="i-cv" href="https://github.com/jeanoropeza130/JeanJSDev-Portafolio/raw/master/src/assets/CV-Jean.pdf"download>Descarga Mi CV</a> 
+                <a className="a-cv" href="https://github.com/jeanoropeza130/JeanJSDev-Portafolio/raw/master/src/assets/CV-Jean.pdf"download>Descarga Mi CV</a> 
             </div>
             <svg 
              width="24px"
