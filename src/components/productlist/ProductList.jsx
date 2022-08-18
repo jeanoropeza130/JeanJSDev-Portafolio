@@ -10,9 +10,9 @@ const ProductList = () => {
     <div className="pl1">
       
         <div className="pl-texts">
-          <h1 className="pl-title">Algunos de Mis Proyectos</h1>
+          <h1 className="pl-title">Proyectos</h1>
           <p className="pl-desc">
-          Portafolio creativo que su trabajo ha estado esperando Hermosas cosas, impresionantes estilos y mucho más lo espera en el interior.
+          Portafolio creativo que su trabajo ha estado esperando hermosas cosas, impresionantes estilos y mucho más lo espera en el interior.
           </p>
         </div>
        <div className="pl_list">

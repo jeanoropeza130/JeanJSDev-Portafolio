@@ -63,7 +63,7 @@ const Contact = () => {
             </div>
             <div className="c-right">
               <p className="c-desc">
-                  <b>Enviame un Email </b> Siempre estamos dispuesto a trabajar en el proyecto adecuado.
+                  <b>Enviame un Email </b> Estamos dispuesto a trabajar en el proyecto adecuado.
               </p>
               <form ref={formRef} onSubmit={handleSubmit}>
                 <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Nombre"  name="user_name"/>

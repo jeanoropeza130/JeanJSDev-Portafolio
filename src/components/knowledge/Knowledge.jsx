@@ -2,6 +2,7 @@ import './knowledge.css'
 import html from "../../img/html.png"
 import css from "../../img/css.png"
 import js from "../../img/js.png"
+import ts from "../../img/ts.png"
 import react from "../../img/react.png"
 import node from "../../img/node.png"
 import npm from "../../img/npm.png"
@@ -25,6 +26,7 @@ const About = () => {
         <img src={html} title='HTML' alt='HTML'/>
         <img src={css} title='CSS' alt='CSS'/>
         <img src={js} title='JavaScript' alt='JavaScript'/>
+        <img src={ts} title='TypeScript' alt='TypeScript'/>
         <img src={react} title='REACT' alt='REACT'/>
         <img src={node} title='NODE' alt='NODE'/>
         <img src={npm} title='NPM' alt='NPM'/>
